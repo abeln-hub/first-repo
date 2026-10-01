@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: whitesmoke;
+  margin: 20px;
+  color: dimgray;
+}
+
+h1 {
+  text-align: center;
+  color: navy;
+  background-color: white;
+  padding: 15px;
+}
+
+h2 {
+  color: lightseagreen;
+}
+
+div {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+img {
+  width: 250px;
+  margin: 10px;
+  border: 2px solid gray;
+}
+
+a {
+  color: blue;
+}
+
+li {
+  margin: 8px;
+}
+
+footer {
+  background-color: lightpink;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
